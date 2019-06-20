@@ -1,7 +1,8 @@
 # HarshSagar_ML_June19_Assignment
 Solutions to ML Assignment
 
-## HarshSagar_ML has 2 Folder
+
+## HarshSagar_ML has 2 Folders
 * problem_1
 * problem_2
 
